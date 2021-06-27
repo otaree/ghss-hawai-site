@@ -59,9 +59,9 @@ export default function MandatoryPublicDisclosure() {
             <Box borderRadius="md" shadow="md" overflow="hidden" mt={2} mb={4}>
                 <Table variant="simple" display={["table", "none"]} size="sm">
                     <Thead bgColor="teal.200" h="40px">
-                        <Tr>
-                            <Th >Documents</Th>
-                            <Th >Details</Th>
+                        <Tr >
+                            <Th color="gray.800">Documents</Th>
+                            <Th color="gray.800">Details</Th>
                         </Tr>
                     </Thead>
                     <Tbody>
@@ -96,10 +96,10 @@ export default function MandatoryPublicDisclosure() {
                     </Tbody>
                 </Table>
                 <Table variant="simple" display={["none", "table"]} size="md">
-                    <Thead bgColor="teal.100" color="black">
+                    <Thead bgColor="teal.100">
                         <Tr>
-                            <Th >Documents</Th>
-                            <Th >Details</Th>
+                            <Th>Documents</Th>
+                            <Th>Details</Th>
                         </Tr>
                     </Thead>
                     <Tbody>
