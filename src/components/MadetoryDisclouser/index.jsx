@@ -116,6 +116,10 @@ export default function MandatoryPublicDisclosure() {
                             <Td>37117</Td>
                         </Tr>
                         <Tr>
+                            <Td>U-dise Code No.</Td>
+                            <Td>12160309001</Td>
+                        </Tr>
+                        <Tr>
                             <Td>Address</Td>
                             <Td>Govt. Higher Secondary School, Hawai</Td>
                         </Tr>
@@ -382,42 +386,42 @@ export default function MandatoryPublicDisclosure() {
                         Copy of the DEO certificate submitted by the school for Affiliation/Upgradation/extension of the Affiliation or self certification by school <ExternalLinkIcon mx="2px" />
                     </Link>
                 </Text>
-                <Text p={2} fontSize="md">
+                <Text p={2} fontSize="md" borderBottomWidth={0.75} borderBottomColor="gray.200">
                     <Link href={HealthSanitationDoc} isExternal color="teal.400">
                         Copies of valid water, health and sanitation certificates <ExternalLinkIcon mx="2px" />
                     </Link>
                 </Text>
-                <Text p={2} fontSize="md">
+                <Text p={2} fontSize="md" borderBottomWidth={0.75} borderBottomColor="gray.200">
                     <Link href={LandCertificateDoc} isExternal color="teal.400">
                         Copies of valid Land certificates <ExternalLinkIcon mx="2px" />
                     </Link>
                 </Text>
-                <Text p={2} fontSize="md">
+                <Text p={2} fontSize="md" borderBottomWidth={0.75} borderBottomColor="gray.200">
                     <Link href={SchoolInfrastructure} isExternal color="teal.400">
                         Details of School Infrastructure <ExternalLinkIcon mx="2px" />
                     </Link>
                 </Text>
-                <Text p={2} fontSize="md">
+                <Text p={2} fontSize="md" borderBottomWidth={0.75} borderBottomColor="gray.200">
                     <Link href={NSS} isExternal color="teal.400">
                        Nation Service Scheme(NSS) <ExternalLinkIcon mx="2px" />
                     </Link>
                 </Text>
-                <Text p={2} fontSize="md">
+                <Text p={2} fontSize="md" borderBottomWidth={0.75} borderBottomColor="gray.200">
                     <Link href={NCCDoc} isExternal color="teal.400">
                         National Cadet Corps(NCC) <ExternalLinkIcon mx="2px" />
                     </Link>
                 </Text>
-                <Text p={2} fontSize="md">
+                <Text p={2} fontSize="md" borderBottomWidth={0.75} borderBottomColor="gray.200">
                     <Link href={SexualHarassmentCommitteeDoc} isExternal color="teal.400">
                        Sexual Harassment Committee <ExternalLinkIcon mx="2px" />
                     </Link>
                 </Text>
-                <Text p={2} fontSize="md">
+                <Text p={2} fontSize="md" borderBottomWidth={0.75} borderBottomColor="gray.200">
                     <Link href={TeachersBioDataDoc} isExternal color="teal.400">
                         Teachers Details <ExternalLinkIcon mx="2px" />
                     </Link>
                 </Text>
-                <Text p={2} fontSize="md">
+                <Text p={2} fontSize="md" >
                     <Link href={TransferCertificateDoc} isExternal color="teal.400">
                         Sample of Transfer Certificate(TC) <ExternalLinkIcon mx="2px" />
                     </Link>
