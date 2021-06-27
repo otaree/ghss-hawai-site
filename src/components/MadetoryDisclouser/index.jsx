@@ -58,7 +58,7 @@ export default function MandatoryPublicDisclosure() {
             </Heading>
             <Box borderRadius="md" shadow="md" overflow="hidden" mt={2} mb={4}>
                 <Table variant="simple" display={["table", "none"]} size="sm">
-                    <Thead bgColor="teal.100" h="40px">
+                    <Thead bgColor="teal.200" h="40px">
                         <Tr>
                             <Th >Documents</Th>
                             <Th >Details</Th>
@@ -403,7 +403,7 @@ export default function MandatoryPublicDisclosure() {
                 </Text>
                 <Text p={2} fontSize="md" borderBottomWidth={0.75} borderBottomColor="gray.200">
                     <Link href={NSS} isExternal color="teal.400">
-                       Nation Service Scheme(NSS) <ExternalLinkIcon mx="2px" />
+                        Nation Service Scheme(NSS) <ExternalLinkIcon mx="2px" />
                     </Link>
                 </Text>
                 <Text p={2} fontSize="md" borderBottomWidth={0.75} borderBottomColor="gray.200">
@@ -413,7 +413,7 @@ export default function MandatoryPublicDisclosure() {
                 </Text>
                 <Text p={2} fontSize="md" borderBottomWidth={0.75} borderBottomColor="gray.200">
                     <Link href={SexualHarassmentCommitteeDoc} isExternal color="teal.400">
-                       Sexual Harassment Committee <ExternalLinkIcon mx="2px" />
+                        Sexual Harassment Committee <ExternalLinkIcon mx="2px" />
                     </Link>
                 </Text>
                 <Text p={2} fontSize="md" borderBottomWidth={0.75} borderBottomColor="gray.200">
