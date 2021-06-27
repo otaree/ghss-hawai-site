@@ -96,7 +96,7 @@ export default function MandatoryPublicDisclosure() {
                     </Tbody>
                 </Table>
                 <Table variant="simple" display={["none", "table"]} size="md">
-                    <Thead bgColor="teal.100">
+                    <Thead bgColor="teal.100" color="black">
                         <Tr>
                             <Th >Documents</Th>
                             <Th >Details</Th>
